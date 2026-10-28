@@ -1,0 +1,17 @@
+[
+{ "id": "Bucharest", "plecare": "Bucharest", "destinatie": "London", "nrLocuri": "200" },
+{ "id": "Cluj", "plecare": "Cluj", "destinatie": "Paris", "nrLocuri": "150" },
+{ "id": "Timisoara", "plecare": "Timisoara", "destinatie": "Berlin", "nrLocuri": "180" },
+{ "id": "Iasi", "plecare": "Iasi", "destinatie": "Rome", "nrLocuri": "160" },
+{ "id": "Constanta", "plecare": "Constanta", "destinatie": "Madrid", "nrLocuri": "175" },
+{ "id": "Sibiu", "plecare": "Sibiu", "destinatie": "Vienna", "nrLocuri": "190" },
+{ "id": "Oradea", "plecare": "Oradea", "destinatie": "Budapest", "nrLocuri": "140" },
+{ "id": "Brasov", "plecare": "Brasov", "destinatie": "Amsterdam", "nrLocuri": "155" },
+{ "id": "Craiova", "plecare": "Craiova", "destinatie": "Prague", "nrLocuri": "165" },
+{ "id": "Galati", "plecare": "Galati", "destinatie": "Warsaw", "nrLocuri": "170" },
+{ "id": "Suceava", "plecare": "Suceava", "destinatie": "Brussels", "nrLocuri": "180" },
+{ "id": "Bucharest", "plecare": "Bucharest", "destinatie": "Milan", "nrLocuri": "185" },
+{ "id": "Sibiu", "plecare": "Sibiu", "destinatie": "Munich", "nrLocuri": "150" },
+{ "id": "Arad", "plecare": "Arad", "destinatie": "Barcelona", "nrLocuri": "160" },
+{ "id": "Ploiesti", "plecare": "Ploiesti", "destinatie": "Zurich", "nrLocuri": "145" }
+]

@@ -1,0 +1,2 @@
+Start.button.login = Login
+Start.button.normal = Passenger

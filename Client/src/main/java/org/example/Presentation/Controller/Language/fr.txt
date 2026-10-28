@@ -1,0 +1,2 @@
+Start.button.login = Se connecter
+Start.button.normal = Voyageur

@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compiled files
+*.class
+out/
+target/
+bin/
+
+# Logs and temporary files
+*.log
+
+# Local environment files
+.env

@@ -1,0 +1,4 @@
+Start.button.login = Conectare
+Start.button.normal = Calator
+
+
